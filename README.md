@@ -15,7 +15,7 @@ Bloons Tower Defense is a 6-game franchise spanning from 2007-Present Day.
 5. Bloons TD 5 - $5.00
 6. Bloons TD 6 - $10.00
 
-Please keep in mid that these prices are generalized and vary depending on sales, platform, or time.
+Please keep in mid that these prices are *generalized* and vary depending on sales, platform, or time.
 
 ## Bloon Progression
 What makes Bloons a special tower-defense game are the enemies that tread along the track. Aside from this being a kids-genre tower defense game, which is already unique itself, the target-enemies are multi-layered rather than having a set HP. Multi-layered refers to different layers in a Bloon.
@@ -27,4 +27,9 @@ Additionally, there can be special attributes to each Bloon, making stronger the
       The order of layers is as follows:
       Ceramic --> Rainbow --> Zebra --> White/Black --> Pink --> Yellow --> Green --> Blue --> Red
       
-<img src="https://github.com/emmmanuelting/Box/blob/main/g1.jpg" width="640" height="360">
+<img src="https://github.com/emmmanuelting/Box/blob/main/bloon.png" width="1300" height="550">
+
+## Bloons Knowledge
+Among the 6 different games, with hundreds of different upgrades, upgrade paths, towers, heros, bloon values and special features- there is no way one person can know every little thing about the franchise. Refer to the link below for the official wiki.
+
+      [Bloons TD Wiki](https://bloons.fandom.com/wiki/Bloons_Wiki)
